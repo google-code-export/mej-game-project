@@ -1,0 +1,1 @@
+treasure box now moves on the menu game screen. rotating counter clock wise they all go the same way and in addition a loop will be added so as to proceed the movement of the treasure boxes.

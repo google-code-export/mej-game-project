@@ -1,0 +1,1 @@
+the crashing of the files has now stopped with the cs6 installment of adobe flash. no longer does the file crash and say ' unexpected file format' but save properly on the H drive
